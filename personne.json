@@ -1,0 +1,630 @@
+{
+    "gestion": {
+        "reference": {
+            "idweb": "20-125631",
+            "typeavis": {
+                "famille": {
+                    "mapa": "\n",
+                    "fns": null,
+                    "joue": null,
+                    "dsp": null,
+                    "divers": null
+                },
+                "perimetre": {
+                    "cmp2006": "\n",
+                    "cmp2006DEFENSE": null,
+                    "directive18": null,
+                    "directive17": null,
+                    "directive81": null,
+                    "directive23": null,
+                    "directive24": null,
+                    "directive25": null,
+                    "dsp": null,
+                    "autre": null
+                },
+                "nature": {
+                    "preinformation": null,
+                    "profilacheteur": null,
+                    "appeloffre": {
+                        "standard": null,
+                        "concours": null,
+                        "periodique": null,
+                        "qualification": null,
+                        "sad": null,
+                        "concession": null,
+                        "concessionnaire": null
+                    },
+                    "intentionconclure": null,
+                    "attribution": null,
+                    "soustraitance": null,
+                    "modification": null,
+                    "qualification": null,
+                    "rectificatif": null,
+                    "periodique": null,
+                    "autre": null
+                },
+                "statut": {
+                    "initial": "\n",
+                    "rectificatif": null,
+                    "annulation": null,
+                    "modification": null
+                }
+            }
+        },
+        "marche": null,
+        "nomhtml": "20-125631.html",
+        "indexation": {
+            "datepublication": 1602626400000,
+            "datelimitereponse": 1605610800000,
+            "datefindiffusion": 1605567600000,
+            "classes": null,
+            "descripteurs": {
+                "descripteur": [
+                    {
+                        "code": 21,
+                        "libelle": "Audit"
+                    }
+                ]
+            },
+            "criteressociauxenv": null,
+            "deppublication": [
+                "75",
+                "77",
+                "78",
+                "91",
+                "92",
+                "93",
+                "94",
+                "95"
+            ],
+            "depprestation": null,
+            "resumeobjet": "Réalisation d'audit interne sur le périmètre des normes NF EN ISO 9001, NF EN ISO 14001 et NF EN ISO 50001 et accompagnement et conseil du PIC."
+        }
+    },
+    "donnees": {
+        "identite": {
+            "denomination": "PIC SCA SCB SMS APHP",
+            "codeidentnational": null,
+            "correspondant": "M. PROST Jean-Luc, PIC SCA SCB SMS APHP",
+            "contact": null,
+            "adjudicateurnuts": null,
+            "adresse": "Boulevard Vincent Auriol BP20257",
+            "cp": "75624",
+            "ville": "Paris cedex 13",
+            "pays": null,
+            "tel": "01-44-06-59-01",
+            "poste": null,
+            "fax": "01-44-06-59-21",
+            "mel": "jean-luc.prost@aphp.fr",
+            "url": null,
+            "urlprofilacheteur": null,
+            "urlinformation": null,
+            "urlparticipation": null,
+            "urldocument": null,
+            "urloutillogiciel": null,
+            "agitpourautrecompteoui": null,
+            "agitpourautrecomptenon": null,
+            "loicompteautrepays": null,
+            "organismeacheteurcentraloui": null,
+            "organismeacheteurcentralnon": null
+        },
+        "typeorganisme": {
+            "institutioneuropeenne": null,
+            "etat": null,
+            "region": null,
+            "departement": null,
+            "commune": null,
+            "epn": "\n",
+            "ept": null,
+            "autre": null
+        },
+        "typepouvoiradjudicateur": null,
+        "activiteprincipale": null,
+        "objet": [
+            {
+                "titremarche": null,
+                "refmarche": null,
+                "typemarche": {
+                    "travaux": null,
+                    "fournitures": null,
+                    "service": ""
+                },
+                "objetcomplet": "Réalisation d'audit interne sur le périmètre des normes NF EN ISO 9001, NF EN ISO 14001 et NF EN ISO 50001, accompagnement et conseil du Pôle d'Intérêt Commun (PIC) SCA-SCB-SMS de l'Assistance Publique - Hôpitaux de Paris (AP-HP).",
+                "cpv": [],
+                "lieuexeclivr": [],
+                "delegation": null,
+                "ampoui": null,
+                "ampnon": null,
+                "aviscorrespond": null,
+                "avisimplique": null,
+                "accordcadre": null,
+                "variantesoui": null,
+                "variantesnon": "\n",
+                "caracteristiques": {
+                    "principales": "Prestations d'audits",
+                    "quantite": "Réalisation d'audit interne sur le périmètre des normes NF EN ISO 9001, NF EN ISO 14001 et NF EN ISO 50001, accompagnement et conseil du Pôle d'Intérêt Commun (PIC) SCA-SCB-SMS de l'Assistance Publique - Hôpitaux de Paris (AP-HP).",
+                    "valeurtotale": null,
+                    "valeur": null,
+                    "valeurmin": null,
+                    "valeurmax": null,
+                    "titre": null,
+                    "table": null,
+                    "options": null,
+                    "reconductions": null
+                },
+                "dureedelai": null,
+                "divenlots": null,
+                "nblotoffremax": null,
+                "nblotattribmax": null,
+                "lotsreservepouvoiradjudicateur": null,
+                "datelancement": null,
+                "lots": null,
+                "infocompl": null
+            }
+        ],
+        "procedure": {
+            "typeprocedure": {
+                "ouvert": null,
+                "restreint": null,
+                "negocie": null,
+                "procedureadapte": "\n",
+                "dialoguecompetitif": null,
+                "partenariatinnovation": null,
+                "concoursouvert": null,
+                "concoursrestreint": null,
+                "attribuesanspubjoue": null,
+                "attribueavecpubjoue": null,
+                "autre": null
+            },
+            "nbcandidats": null,
+            "avisimplique": null,
+            "accordcadre": null,
+            "attribpouvoiradjudicateursansnegociationoui": null,
+            "attribpouvoiradjudicateursansnegociationnon": null,
+            "enchereelectroniqueoui": null,
+            "enchereelectroniquenon": null,
+            "ampoui": null,
+            "ampnon": null,
+            "fondscommunautairesoui": null,
+            "fondscommunautairesnon": null,
+            "urlreglesnationales": null,
+            "criteresattribution": null,
+            "marcheperiodiqueoui": null,
+            "marcheperiodiquenon": null,
+            "laureatattributaireoui": null,
+            "laureatattributairenon": null,
+            "decisionjurycontraignanteoui": null,
+            "decisionjurycontraignantenon": null,
+            "membrejury": []
+        },
+        "publicationanterieure": null,
+        "attribution": null,
+        "rectif": null,
+        "annulation": null,
+        "conditiondelai": {
+            "receptcandidat": null,
+            "receptoffres": 1605610800000,
+            "limiteenvoiinvit": null,
+            "validiteoffre": null,
+            "dureesystemequalification": null
+        },
+        "conditionrelativemarche": null,
+        "conditionparticipation": {
+            "critereselection": null,
+            "situationjuridique": null,
+            "situationjuridiquesst": null,
+            "capecomarcheoui": null,
+            "capecomarchenon": null,
+            "capeco": null,
+            "capecosst": null,
+            "capeconiveaumini": null,
+            "capeconiveauminisst": null,
+            "captechoffreoui": null,
+            "captechoffrenon": null,
+            "captech": null,
+            "captechsst": null,
+            "captechniveaumini": null,
+            "captechniveauminisst": null,
+            "criteresparticipation": null,
+            "marchereserveoui": null,
+            "marchereservenon": null,
+            "prestationreserveeoui": null,
+            "prestationreserveenon": null,
+            "conditionparticuliereexecution": null,
+            "indicationobligatoirenomqualificationsoui": null,
+            "indicationobligatoirenomqualificationsnon": null,
+            "justificatifscandidat": null,
+            "eligiblemps": {
+                "oui": null,
+                "non": "\n"
+            }
+        },
+        "conditionparticipationsystmequalif": [],
+        "conditionadministrative": {
+            "referencemarche": "PIC20053",
+            "etudesconcours": null,
+            "recompenseslaureatoui": null,
+            "recompenseslaureatnon": null,
+            "recompenseslaureat": null,
+            "indemnisationparticipants": null,
+            "conditionsremiseoffres": null,
+            "conditionsetmodepaiementobtenirdocuments": null,
+            "datelimiteobtentiondocuments": null,
+            "documentpayantoui": null,
+            "documentpayantnon": null,
+            "persouvertureoffresoui": null,
+            "persouvertureoffresnon": null,
+            "datedebutattribution": null,
+            "dateouvertureoffres": null,
+            "lieuouvertureoffres": null,
+            "abandonsadoui": null,
+            "abandonsadnon": null,
+            "finattributionoui": null,
+            "finattributionnon": null,
+            "envoielectroniqueavecoutiloui": null,
+            "envoielectroniqueavecoutilnon": null
+        },
+        "renseignementscomplementaires": {
+            "commandeelectroniqueoui": null,
+            "commandeelectroniquenon": null,
+            "facturationelectroniqueoui": null,
+            "facturationelectroniquenon": null,
+            "paiementelectroniqueoui": null,
+            "paiementelectroniquenon": null,
+            "renscomplement": null,
+            "proceduresrecoursprecisions": null,
+            "adressescomplementaires": {
+                "adresse": [
+                    {
+                        "type": {
+                            "agitpourautrecompteoui": null,
+                            "admintech": null,
+                            "admin": null,
+                            "tech": null,
+                            "renseignements": null,
+                            "documents": "\n",
+                            "envoyeroffres": null,
+                            "instancerecours": null,
+                            "organemediation": null,
+                            "rensrecours": null
+                        },
+                        "denomination": null,
+                        "codeidentnational": null,
+                        "correspondant": null,
+                        "contact": null,
+                        "adresse": null,
+                        "cp": null,
+                        "ville": null,
+                        "pays": null,
+                        "codenuts": null,
+                        "tel": null,
+                        "poste": null,
+                        "fax": null,
+                        "mel": null,
+                        "url": "https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&AllCons&refConsultation=652227&orgAcronyme=x7c"
+                    }
+                ]
+            }
+        },
+        "modif": null,
+        "annexed1": null,
+        "annexed2": null,
+        "annexed3": null,
+        "annexed4": null
+    }
+}
+{
+    "gestion": {
+        "reference": {
+            "idweb": "20-125631",
+            "typeavis": {
+                "famille": {
+                    "mapa": "\n",
+                    "fns": null,
+                    "joue": null,
+                    "dsp": null,
+                    "divers": null
+                },
+                "perimetre": {
+                    "cmp2006": "\n",
+                    "cmp2006DEFENSE": null,
+                    "directive18": null,
+                    "directive17": null,
+                    "directive81": null,
+                    "directive23": null,
+                    "directive24": null,
+                    "directive25": null,
+                    "dsp": null,
+                    "autre": null
+                },
+                "nature": {
+                    "preinformation": null,
+                    "profilacheteur": null,
+                    "appeloffre": {
+                        "standard": null,
+                        "concours": null,
+                        "periodique": null,
+                        "qualification": null,
+                        "sad": null,
+                        "concession": null,
+                        "concessionnaire": null
+                    },
+                    "intentionconclure": null,
+                    "attribution": null,
+                    "soustraitance": null,
+                    "modification": null,
+                    "qualification": null,
+                    "rectificatif": null,
+                    "periodique": null,
+                    "autre": null
+                },
+                "statut": {
+                    "initial": "\n",
+                    "rectificatif": null,
+                    "annulation": null,
+                    "modification": null
+                }
+            }
+        },
+        "marche": null,
+        "nomhtml": "20-125631.html",
+        "indexation": {
+            "datepublication": 1602626400000,
+            "datelimitereponse": 1605610800000,
+            "datefindiffusion": 1605567600000,
+            "classes": null,
+            "descripteurs": {
+                "descripteur": [
+                    {
+                        "code": 21,
+                        "libelle": "Audit"
+                    }
+                ]
+            },
+            "criteressociauxenv": null,
+            "deppublication": [
+                "75",
+                "77",
+                "78",
+                "91",
+                "92",
+                "93",
+                "94",
+                "95"
+            ],
+            "depprestation": null,
+            "resumeobjet": "Réalisation d'audit interne sur le périmètre des normes NF EN ISO 9001, NF EN ISO 14001 et NF EN ISO 50001 et accompagnement et conseil du PIC."
+        }
+    },
+    "donnees": {
+        "identite": {
+            "denomination": "PIC SCA SCB SMS APHP",
+            "codeidentnational": null,
+            "correspondant": "M. PROST Jean-Luc, PIC SCA SCB SMS APHP",
+            "contact": null,
+            "adjudicateurnuts": null,
+            "adresse": "Boulevard Vincent Auriol BP20257",
+            "cp": "75624",
+            "ville": "Paris cedex 13",
+            "pays": null,
+            "tel": "01-44-06-59-01",
+            "poste": null,
+            "fax": "01-44-06-59-21",
+            "mel": "jean-luc.prost@aphp.fr",
+            "url": null,
+            "urlprofilacheteur": null,
+            "urlinformation": null,
+            "urlparticipation": null,
+            "urldocument": null,
+            "urloutillogiciel": null,
+            "agitpourautrecompteoui": null,
+            "agitpourautrecomptenon": null,
+            "loicompteautrepays": null,
+            "organismeacheteurcentraloui": null,
+            "organismeacheteurcentralnon": null
+        },
+        "typeorganisme": {
+            "institutioneuropeenne": null,
+            "etat": null,
+            "region": null,
+            "departement": null,
+            "commune": null,
+            "epn": "\n",
+            "ept": null,
+            "autre": null
+        },
+        "typepouvoiradjudicateur": null,
+        "activiteprincipale": null,
+        "objet": [
+            {
+                "titremarche": null,
+                "refmarche": null,
+                "typemarche": {
+                    "travaux": null,
+                    "fournitures": null,
+                    "service": ""
+                },
+                "objetcomplet": "Réalisation d'audit interne sur le périmètre des normes NF EN ISO 9001, NF EN ISO 14001 et NF EN ISO 50001, accompagnement et conseil du Pôle d'Intérêt Commun (PIC) SCA-SCB-SMS de l'Assistance Publique - Hôpitaux de Paris (AP-HP).",
+                "cpv": [],
+                "lieuexeclivr": [],
+                "delegation": null,
+                "ampoui": null,
+                "ampnon": null,
+                "aviscorrespond": null,
+                "avisimplique": null,
+                "accordcadre": null,
+                "variantesoui": null,
+                "variantesnon": "\n",
+                "caracteristiques": {
+                    "principales": "Prestations d'audits",
+                    "quantite": "Réalisation d'audit interne sur le périmètre des normes NF EN ISO 9001, NF EN ISO 14001 et NF EN ISO 50001, accompagnement et conseil du Pôle d'Intérêt Commun (PIC) SCA-SCB-SMS de l'Assistance Publique - Hôpitaux de Paris (AP-HP).",
+                    "valeurtotale": null,
+                    "valeur": null,
+                    "valeurmin": null,
+                    "valeurmax": null,
+                    "titre": null,
+                    "table": null,
+                    "options": null,
+                    "reconductions": null
+                },
+                "dureedelai": null,
+                "divenlots": null,
+                "nblotoffremax": null,
+                "nblotattribmax": null,
+                "lotsreservepouvoiradjudicateur": null,
+                "datelancement": null,
+                "lots": null,
+                "infocompl": null
+            }
+        ],
+        "procedure": {
+            "typeprocedure": {
+                "ouvert": null,
+                "restreint": null,
+                "negocie": null,
+                "procedureadapte": "\n",
+                "dialoguecompetitif": null,
+                "partenariatinnovation": null,
+                "concoursouvert": null,
+                "concoursrestreint": null,
+                "attribuesanspubjoue": null,
+                "attribueavecpubjoue": null,
+                "autre": null
+            },
+            "nbcandidats": null,
+            "avisimplique": null,
+            "accordcadre": null,
+            "attribpouvoiradjudicateursansnegociationoui": null,
+            "attribpouvoiradjudicateursansnegociationnon": null,
+            "enchereelectroniqueoui": null,
+            "enchereelectroniquenon": null,
+            "ampoui": null,
+            "ampnon": null,
+            "fondscommunautairesoui": null,
+            "fondscommunautairesnon": null,
+            "urlreglesnationales": null,
+            "criteresattribution": null,
+            "marcheperiodiqueoui": null,
+            "marcheperiodiquenon": null,
+            "laureatattributaireoui": null,
+            "laureatattributairenon": null,
+            "decisionjurycontraignanteoui": null,
+            "decisionjurycontraignantenon": null,
+            "membrejury": []
+        },
+        "publicationanterieure": null,
+        "attribution": null,
+        "rectif": null,
+        "annulation": null,
+        "conditiondelai": {
+            "receptcandidat": null,
+            "receptoffres": 1605610800000,
+            "limiteenvoiinvit": null,
+            "validiteoffre": null,
+            "dureesystemequalification": null
+        },
+        "conditionrelativemarche": null,
+        "conditionparticipation": {
+            "critereselection": null,
+            "situationjuridique": null,
+            "situationjuridiquesst": null,
+            "capecomarcheoui": null,
+            "capecomarchenon": null,
+            "capeco": null,
+            "capecosst": null,
+            "capeconiveaumini": null,
+            "capeconiveauminisst": null,
+            "captechoffreoui": null,
+            "captechoffrenon": null,
+            "captech": null,
+            "captechsst": null,
+            "captechniveaumini": null,
+            "captechniveauminisst": null,
+            "criteresparticipation": null,
+            "marchereserveoui": null,
+            "marchereservenon": null,
+            "prestationreserveeoui": null,
+            "prestationreserveenon": null,
+            "conditionparticuliereexecution": null,
+            "indicationobligatoirenomqualificationsoui": null,
+            "indicationobligatoirenomqualificationsnon": null,
+            "justificatifscandidat": null,
+            "eligiblemps": {
+                "oui": null,
+                "non": "\n"
+            }
+        },
+        "conditionparticipationsystmequalif": [],
+        "conditionadministrative": {
+            "referencemarche": "PIC20053",
+            "etudesconcours": null,
+            "recompenseslaureatoui": null,
+            "recompenseslaureatnon": null,
+            "recompenseslaureat": null,
+            "indemnisationparticipants": null,
+            "conditionsremiseoffres": null,
+            "conditionsetmodepaiementobtenirdocuments": null,
+            "datelimiteobtentiondocuments": null,
+            "documentpayantoui": null,
+            "documentpayantnon": null,
+            "persouvertureoffresoui": null,
+            "persouvertureoffresnon": null,
+            "datedebutattribution": null,
+            "dateouvertureoffres": null,
+            "lieuouvertureoffres": null,
+            "abandonsadoui": null,
+            "abandonsadnon": null,
+            "finattributionoui": null,
+            "finattributionnon": null,
+            "envoielectroniqueavecoutiloui": null,
+            "envoielectroniqueavecoutilnon": null
+        },
+        "renseignementscomplementaires": {
+            "commandeelectroniqueoui": null,
+            "commandeelectroniquenon": null,
+            "facturationelectroniqueoui": null,
+            "facturationelectroniquenon": null,
+            "paiementelectroniqueoui": null,
+            "paiementelectroniquenon": null,
+            "renscomplement": null,
+            "proceduresrecoursprecisions": null,
+            "adressescomplementaires": {
+                "adresse": [
+                    {
+                        "type": {
+                            "agitpourautrecompteoui": null,
+                            "admintech": null,
+                            "admin": null,
+                            "tech": null,
+                            "renseignements": null,
+                            "documents": "\n",
+                            "envoyeroffres": null,
+                            "instancerecours": null,
+                            "organemediation": null,
+                            "rensrecours": null
+                        },
+                        "denomination": null,
+                        "codeidentnational": null,
+                        "correspondant": null,
+                        "contact": null,
+                        "adresse": null,
+                        "cp": null,
+                        "ville": null,
+                        "pays": null,
+                        "codenuts": null,
+                        "tel": null,
+                        "poste": null,
+                        "fax": null,
+                        "mel": null,
+                        "url": "https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&AllCons&refConsultation=652227&orgAcronyme=x7c"
+                    }
+                ]
+            }
+        },
+        "modif": null,
+        "annexed1": null,
+        "annexed2": null,
+        "annexed3": null,
+        "annexed4": null
+    }
+}
